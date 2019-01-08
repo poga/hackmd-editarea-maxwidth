@@ -6,5 +6,5 @@
 
 拖曳以下連結至你的書籤列：
 
-<a href='javascript:(function () { var d = document.querySelect('.ui-edia-area'); d.style.maxWidth='758px'; d.style.margin='auto' })()'>Drag me</a>
+<a href="javascript:(function () { var d = document.querySelect('.ui-edia-area'); d.style.maxWidth='758px'; d.style.margin='auto' })()">Drag me</a>
 
